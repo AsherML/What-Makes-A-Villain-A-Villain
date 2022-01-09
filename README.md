@@ -1,0 +1,5 @@
+# INFO 2950: A Study of What Makes a Villain a Villain
+
+This data science project was a joint collaboration between Asher Lipman, Allie Pultorak, Cianna Chairez, and Carrie Kim for our Data Science class. 
+
+Perhaps no film genre is as defined by its villains as that of the classic murder mystery. Sure, we're introduced to the narrative through the eyes of the detective, but if it weren't for that trench-coat wearing assassin who had decided to do evil then there wouldn't be any story to see. But what is it that makes these villains so compelling? This project uses natural language processing and sentiment analysis to pick out exactly what it is that makes a villain a villain, and how villain compare to other character types that writers employ. We did this by compiling a dataset of raw movie scripts and scrubbing them to be computationally comprehensive. We then isolated by character and used a combination of NLP and vector analysis to compare different character types in dimensional space, both in terms of dialogue subject as well as dialogue sentiment.  
